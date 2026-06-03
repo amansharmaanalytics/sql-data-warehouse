@@ -1,5 +1,3 @@
-Since you're building a SQL Data Warehouse Project for your portfolio and Data Analyst interviews, here's a professional README.md template you can directly use and customize.
-
 SQL Data Warehouse Project
 📌 Project Overview
 
